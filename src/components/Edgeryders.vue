@@ -81,50 +81,6 @@ export default {
   background-size: 100%;
 }
 
-.er_photo {
-  transform: rotate(-1.2deg);
-  .photo {
-    background: url("../assets/edgeryders_group.jpg") no-repeat center 15px
-      #f7f8f8;
-    background-size: 95%;
-    height: 200px !important;
-    padding-bottom: 10px;
-    position: relative;
-    border-radius: 10px;
-    width: 90%;
-    left: 5%;
-    margin-top: 2%;
-    &:before,
-    &:after {
-      z-index: -1;
-      position: absolute;
-      content: "";
-      bottom: 15px;
-      left: 10px;
-      width: 50%;
-      top: 80%;
-      max-width: 300px;
-      background: #777;
-      box-shadow: 0 15px 10px #777;
-      transform: rotate(-3deg);
-    }
-    &:after {
-      transform: rotate(3deg);
-      right: 10px;
-      left: auto;
-    }
-    h3 {
-      position: absolute;
-      bottom: 0%;
-      left: 0%;
-      width: 100%;
-      text-align: center;
-      color: orangered;
-      font-size: 1.1em;
-      font-family: "Permanent Marker", cursive;
-    }
-  }
-}
 .icon {
   background-color: #fafafa !important;
   background-position: center center !important;
