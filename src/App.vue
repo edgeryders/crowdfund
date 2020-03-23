@@ -34,8 +34,8 @@
         :key="section.title"
         id="learn"
       />
-            <Backstory
-        v-if="section.type == 'backstory'"
+            <Courses
+        v-if="section.type == 'Courses'"
         :custom="getSectionData(section.title)"
         :key="section.title"
         id="courses"
@@ -58,7 +58,7 @@ import Nav from "@/components/Navigation.vue";
 import Hero from "@/components/Hero.vue";
 import Custom from "@/components/Custom.vue";
 import Crowdfund from "@/components/Crowdfund.vue";
-import Backstory from "@/components/Backstory.vue";
+import Courses from "@/components/Courses.vue";
 import Subscribe from "@/components/Subscribe.vue";
 import Learn from "@/components/Learn.vue";
 import Edgeryders from "@/components/Edgeryders.vue";
@@ -78,7 +78,7 @@ export default {
     Nav,
     Custom,
     Crowdfund,
-    Backstory,
+    Courses,
     Subscribe,
     Learn,
     Edgeryders,
