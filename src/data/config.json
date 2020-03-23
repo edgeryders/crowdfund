@@ -1,0 +1,125 @@
+{
+  "category": "237",
+  "sections": [
+    {
+      "type": "hero",
+      "title": "Join the Sci-Fi Economics Lab",
+      "text": "An initiative to get economics out of its box."
+    },
+    {
+      "type": "funding",
+      "id": "funding",
+      "title": "Contribute",
+      "introduction": "Help us reach our fundraising goal of",
+      "text": {
+        "content": "<p>We’re developing an online course with the aim to cover the essentials of remote work and collaobration.</p><p>Due to the current crisis, we are getting many requests to help people set up or improve their remote collaboration practices. So we are doing a sprint to quickly set up and share an <a href='https://en.wikipedia.org/wiki/Massive_open_online_course' target='blank'>Open Online Course</a> on distributed collaboration.</p>",
+        "position": "left"
+      },
+      "goal": "€10.000"
+    },
+    {
+      "type": "learn",
+      "id": "learn",
+      "title": "Overview",
+      "introduction": "What you'll learn about",
+      "slides": [
+        {"title": "Collaboration Models", "info": "Guidelines and introductions for different collaboration models, from fully remote asynchronous work over online facilitated war room hangouts to prolonged colocation or co-living situations with your colleagues. These will help you to become aware of possibilities and decide which collaboration form to choose for which project."}, 
+        {"title": "Remote Onboarding", "info": "We address how to develop your remote onboarding process for the best possible start. Do not lose crucial energy and motivation at the start. Establish an accessible, sharebal system and the culture necessary to properly onboard new team members no matter where they are."}, 
+        {"title": "Communication Channels", "info": "An overview of possible communication channels and the  best appropriate practices for those different channels. With examples reaching from digital preparation and commitment culture to simple hand signs and checklists for choosing the right channel for you."}, 
+        {"title": "Online Facilitation", "info": "What makes a good webinar? How can we have online workshops? Tips and tricks for online facilitation, such as how to use and moderate the chat in online call meetings to helping you activate and engage groups of different sizes and goals."}, 
+        {"title": "Digital Wellbeing", "info": "Develop an awereness of how to balance social & work-related aspects of you and your colleagues’ digital routine. Grasp the different methods to amplify social signals in digital communication - as far reaching as the role of cats and other positive noises to amplify social signals in digital communication!"}, 
+        {"title": "Distributed Workflows", "info": "Learn clear structuring and sharing habits for common resources and the importance of open communication, shared workload and ownership for distributed workflows."},
+        {"title": "Data Privacy", "info": "Integrate daily practices to ensure the privacy and integrity of you and your colleague's data. Understand the responsibility of shared resources and the importance of user privacy in a shared online workplace."},
+        {"title": "Event Management", "info": "Organise and promote collaborative events using a variety of mediums and channels. You'll learn how online event organising, when it works, can lead to a result as effective and dynamic as in person meetups."},
+        {"title": "Collaborative Research", "info": "Harness the collective intelligence of your platform to gain insight into your audience and the culture that surrounds your work."}
+      ]
+    },
+    {
+      "type": "video",
+      "title": "video",
+      "source": "https://mirror.eu.oneandone.net/projects/media.ccc.de/events/camp2019/h264-sd/camp19-10204-eng-pol-Participatory_art_event_tools_co-creation_and_silk_road_networks_sd.mp4"
+    },
+    {
+      "type": "text",
+      "title": "",
+      "text": {
+        "content": "<p><b>The lessons and the learning materials will provide a mix of concrete examples, recommendations and general guidelines for changing work culture.</p> <p>Our collaborations, relationships and world are not fixed by turning back time or by downloading the next smart tool. This course supports you in the conscious effort to get socialised in the new distributed digital collaboration rooms open to us.</b></p>",
+        "position": "left"
+      },
+      "image": {
+        "url": "desk.svg",
+        "width": "300"
+      }
+    },
+    {
+      "type": "subscribe",
+      "id": "subscribe",
+      "title": "Get notified",
+      "text": {
+        "content": ["<p>Put your email address in below and we’ll inform you when the campaign is about to launch.</p>", "<p>You can also subscribe to our newsletter. These are sent out very occasionally to keep people up to date on our latest projects and events.</p>"]
+      },
+      "list": "crowdfunding"
+    },
+    {
+      "type": "backstory",
+      "title": "Courses",
+      "subtitle": "Why are we doing this?",
+      "id": "courses",
+      "introduction": "<p>We make courses whenever we notice a need as a service to people trying to do work at the edges. When you are out there doing ground breaking work, the people you can turn to for learning are your peers. That's why we developed the Academy, a central resource for our collective knowledge and experience on topics that we think are important and should be accessible to all.</p>",
+      "video": "robin.mp4",
+      "text": [
+        {
+          "title": "Community Building & Management",
+          "url": "https://edgeryders.teachable.com/p/community",
+          "poster": "community.png",
+          "author": [{
+            "url": "https://edgeryders.eu/u/johncoate/",
+            "avatar": "https://edgeryders.eu/user_avatar/edgeryders.eu/johncoate/240/10813_2.png",
+            "username": "John Coate"
+          }, {
+            "url": "https://edgeryders.eu/u/noemi",
+            "avatar": "https://edgeryders.eu/user_avatar/edgeryders.eu/noemi/240/4_2.png",
+            "username": "Noemi Salantiu"
+          }],
+          "video": "http://academy.edgeryders.eu/video/community_building_1.mp4",
+          "introduction": "<p><b>Community is a word with many definitions. 'Online community' means different things to different people too. What we mean in this toolkit is a collection of people, joined together mainly through an networked asynchronous computer platform, in which the participants develop various individual & group relationships in ways that make sense to them, either personally, professionally or both.</b></p>",
+          "content": "<p>It achieves its community status through the weaving of those relationships, and its sense of community is held in common by the will of the participants themselves. A true measure of it being a real community is if the people using it consider themselves to be part of a real community, even though most interactions take place in a virtual space.</p><p>At its heart, an online community is all about relationships. It is well proven that it is possible for people to experience authentic depth in these relationships, even when chiefly communicating via networked computers.</p>"
+        },
+        {
+          "title": "Open Ethnography",
+          "url": "https://edgeryders.teachable.com/p/master-open-ethnographer",
+          "poster": "ethnography.png",
+          "author": [{
+            "url": "https://edgeryders.eu/u/amelia",
+            "avatar": "https://edgeryders.eu/user_avatar/edgeryders.eu/amelia/240/9977_2.png",
+            "username": "Amelia Hassoun"
+          }],
+          "video": "http://academy.edgeryders.eu/video/open_ethnography.mp4",
+          "introduction": "<p><b>How does a community think, feel and see the world?</b></p>",
+          "content": "<p>Ethnographers do participant-observation, spending a lot of time in the social environment that they are studying. As a result ethnography is really good at capturing nuances and understanding how and why communities behave the way they do.</p><p>With this course we want to move away from the idea of ethnography as a lone practice. We want to explore a new way of research, open and collective, that we call Collective Ethnography.</p><p>Open Ethnographer is one of the most important tools that we use for doing this and we believe that it enables a powerful and scalable way to allow online collaboration and find deeper discoveries in data analysis.</p>"
+        },
+        {
+          "title": "Harness Graphryder",
+          "url": "https://edgeryders.teachable.com/p/harness-graphryder",
+          "poster": "graphryder.png",
+          "author": [{
+            "url": "https://edgeryders.eu/u/alberto",
+            "avatar": "https://edgeryders.eu/user_avatar/edgeryders.eu/alberto/240/5_2.png",
+            "username": "Alberto Cottica"
+          }],
+          "video": "http://academy.edgeryders.eu/video/graphryder.mp4",
+          "introduction": "<p>Unlock the power of the semantic social network with Graphryder, a new tool developed by Ethnographers in collaboration with Edgeryders. Understand conversations like never before using rich data visualizations, tags and co-occurence.</p>",
+          "content": "<p>Graphryder is a dashboard tool that allow us to analyze the conversations that are happening in a community through reading of ethnographic data. Graphryder is based on innovative academic research which has led to publication in scientific journals.</p>"
+        }
+      ]
+    },
+    {
+      "type": "edgeryders",
+      "id": "edgeryders",
+      "title": "About Us"
+    },
+    {
+      "type": "terms"
+    }
+  ]
+}
