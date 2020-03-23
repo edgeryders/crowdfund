@@ -9,6 +9,7 @@ node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/**/**/*.mp4
 
 MOOC_1.mp4
 robin.mp4
